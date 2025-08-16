@@ -18,8 +18,6 @@ Run the `.exe` file to start the application.
 ## 📸 Overview
 <img width="3000" height="1914" alt="camtasia-main-interface" src="https://github.com/user-attachments/assets/764fe287-6525-4a2e-a0eb-eb82bf472675" />
 <img width="1000" height="676" alt="camtasia-screen-recording-in-action" src="https://github.com/user-attachments/assets/0197520d-4c6b-4bc0-b781-e39f84491640" />
-![camtasia-timeline-video-editing](https://github.com/user-attachments/assets/0a364416-3378-4669-9d12-9b5ed7f25bde)
-
 
 ## 🎯 Key Features
 ⚡ **All-in-One Screen Recording & Editing** – Record your screen and edit in one tool.  
